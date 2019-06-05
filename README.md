@@ -30,4 +30,3 @@ Simple Chatting Program (java)
 - 3. 금지어 파일 관리 기능 구현 - 서버를 시작하면 금지어 리스트는 특정 파일에서 불러오고, 서버가 종료되면 새로 추가된 금지어를 포함한 현재 리스트가 파일에 저장되도록 기능 구현
 
 > Q&A: 21400564@handong.edu || KakaoTalk open chat
-> 1차 검사 완료: 
